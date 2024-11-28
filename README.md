@@ -196,12 +196,16 @@ Example QR Code for Payment
 - Handle errors appropriately in your implementation.
 - Always use BigInt for amount values to avoid precision issues.
 
-**Demo Videos:**
 
 ## In-store Purchase Demo for Game and dAPP : BlockBolt Checkout
+
+[![YouTube](http://i.ytimg.com/vi/ep9mQV2bCRI/hqdefault.jpg)](https://www.youtube.com/watch?v=ep9mQV2bCRI)
+
 https://youtu.be/ep9mQV2bCRI
 
 ## Proposed Solution > Blockbolt Payment Demo on NNS (ICP)
+[![YouTube](http://i.ytimg.com/vi/7ehzjZT8Yj4/hqdefault.jpg)](https://www.youtube.com/watch?v=7ehzjZT8Yj4)
+
 https://youtu.be/7ehzjZT8Yj4
 
 If you have any questions, please contact us at support@blockbolt.io or send a message on the Discord server BlockBolt.
