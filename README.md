@@ -8,9 +8,6 @@ https://www.loom.com/share/33d3899e445c4139b8911914588fb88a?sid=246264c3-c3e8-4b
 - **Demo eCommerce Website:**
 https://store.blockbolt.io/mocha
 
-- **Payment Demo on NNS:**
-https://nns.blockbolt.io/
-
 - **Web3 Wallet (Demo Purpose Only):**
 https://vjj55-fyaaa-aaaal-arsxq-cai.icp0.io/
 
