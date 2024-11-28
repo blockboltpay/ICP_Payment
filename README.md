@@ -179,7 +179,8 @@ You can check the status of a transaction using the order ID.
 - Function: `checkStatus`
 - Argument: `order_id`
 
-Example QR Code for Payment
+### Example QR Code for Payment
+https://drive.google.com/file/d/165SHnlCrzfNyZJ-a-TrJJGktvHcTwcCp/view?usp=sharing
 
 - Token Type: “token_type"
 - Amount: “amount"
