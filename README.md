@@ -3,7 +3,7 @@ The BlockBolt Payment Protocol is a decentralized, contactless payment ecosystem
 This project serves as a valuable demonstration of how the ICP wallet can effectively integrate with the Blockbolt Payment Protocol, showcasing its potential to enhance payment solutions.
 
 - **Demo Video:**
-https://www.loom.com/share/33d3899e445c4139b8911914588fb88a?sid=246264c3-c3e8-4b6a-b0ba-bc264dd04193
+https://youtu.be/suovGjsgDZI
 
 - **Demo eCommerce Website:**
 https://store.blockbolt.io/mocha
@@ -177,18 +177,18 @@ You can check the status of a transaction using the order ID.
 - Argument: `order_id`
 
 ### Example QR Code for Payment
-https://drive.google.com/file/d/165SHnlCrzfNyZJ-a-TrJJGktvHcTwcCp/view?usp=sharing
+![Blockbolt Payment QR](https://blockbolt.io/githubimages/STEP_3.jpg)
 
-- Token Type: “token_type"
-- Amount: “amount"
-- Merchant Wallet Address: “merchant_address"
-- Order ID: "order_id"
-- Merchant Name: "merchant_name"
-- Network: "network"
-- Coin Name: "coin_name"
-- Blockchain: "blockchain"
-- Coin Canister ID: "canister_id"
-- Blockchain Canister ID: "blockbolt_canister_id"
+- Token Type: `token_type`
+- Amount: `amount`
+- Merchant Wallet Address: `merchant_address`
+- Order ID: `order_id`
+- Merchant Name: `merchant_name`
+- Network: `network`
+- Coin Name: `coin_name`
+- Blockchain: `blockchain`
+- Coin Canister ID: `canister_id`
+- Blockchain Canister ID: `blockbolt_canister_id`
 
 
 #### **Important Notes:**
@@ -203,6 +203,14 @@ https://drive.google.com/file/d/165SHnlCrzfNyZJ-a-TrJJGktvHcTwcCp/view?usp=shari
 [![YouTube](http://i.ytimg.com/vi/ep9mQV2bCRI/hqdefault.jpg)](https://www.youtube.com/watch?v=ep9mQV2bCRI)
 
 https://youtu.be/ep9mQV2bCRI
+
+
+### Blockbolt Protocol Demo: 'Pay With Wallet' on the IC Network
+
+[![YouTube](http://i.ytimg.com/vi/HOFrKx7WXCY/hqdefault.jpg)](https://www.youtube.com/watch?v=HOFrKx7WXCY)
+
+https://youtu.be/HOFrKx7WXCY
+
 
 ### Proposed Solution > Blockbolt Payment Demo on NNS (ICP)
 [![YouTube](http://i.ytimg.com/vi/7ehzjZT8Yj4/hqdefault.jpg)](https://www.youtube.com/watch?v=7ehzjZT8Yj4)
