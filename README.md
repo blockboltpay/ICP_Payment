@@ -8,6 +8,9 @@ https://www.loom.com/share/33d3899e445c4139b8911914588fb88a?sid=246264c3-c3e8-4b
 - **Demo eCommerce Website:**
 https://store.blockbolt.io/mocha
 
+- **Payment Demo on NNS:**
+https://nns.blockbolt.io/
+
 - **Web3 Wallet (Demo Purpose Only):**
 https://vjj55-fyaaa-aaaal-arsxq-cai.icp0.io/
 
@@ -68,15 +71,15 @@ Run the application in development mode:
 - The app will be accessible at:
 http://localhost:3000
 
-# Guide for integrating $ckBTC, $ckETH, $ICP, and IC ecosystem coin transfers using the Blockbolt canister, aiming to facilitate a seamless process for both developers and users.
+## To successfully incorporate the Blockbolt payment protocol into your mobile or web3 wallet, please follow the detailed steps outlined below. The integration process is straightforward and user-friendly, making it easy for you to enhance your wallet's functionality with the Blockbolt system!
 
-## **Step 1: Approval**
+### **Step 1: Approval**
 
 To initiate the process, approve the token transfer using the unique canister ID for the specific coin. This Coin Canister ID is found in the Blockbolt payment QR code at the time of checkout. After extracting it, you can proceed with the approval.
 
 **Function: `icrc2_approve`**
 
-### **Key Arguments:**
+#### **Key Arguments:**
 
 - `amount`: Amount to approve
 
@@ -115,7 +118,7 @@ To initiate the process, approve the token transfer using the unique canister ID
     }
     };
 
-## **Step 2: Transfer**
+### **Step 2: Transfer**
 
 After approval, use the Blockbolt canister to initiate the transfer.
 
@@ -123,7 +126,7 @@ After approval, use the Blockbolt canister to initiate the transfer.
 
 `transfer`
 
-### **Key Arguments:**
+#### **Key Arguments:**
 
 - `token_type`: Specify the token type  ex: ckETH, ckBTC, ICP
 - `amount`: BigInt value of the amount to transfer
@@ -169,7 +172,7 @@ Example Code:
     }
     };
 
-## **Step 3: Check Transaction Status**
+### **Step 3: Check Transaction Status**
 
 You can check the status of a transaction using the order ID.
 
@@ -190,20 +193,20 @@ Example QR Code for Payment
 - Blockchain Canister ID: "blockbolt_canister_id"
 
 
-### **Important Notes:**
+#### **Important Notes:**
 
 - Ensure you have the necessary permissions and connections with Internet Identity.
 - Handle errors appropriately in your implementation.
 - Always use BigInt for amount values to avoid precision issues.
 
 
-## In-store Purchase Demo for Game and dAPP : BlockBolt Checkout
+### In-store Purchase Demo for Game and dAPP : BlockBolt Checkout
 
 [![YouTube](http://i.ytimg.com/vi/ep9mQV2bCRI/hqdefault.jpg)](https://www.youtube.com/watch?v=ep9mQV2bCRI)
 
 https://youtu.be/ep9mQV2bCRI
 
-## Proposed Solution > Blockbolt Payment Demo on NNS (ICP)
+### Proposed Solution > Blockbolt Payment Demo on NNS (ICP)
 [![YouTube](http://i.ytimg.com/vi/7ehzjZT8Yj4/hqdefault.jpg)](https://www.youtube.com/watch?v=7ehzjZT8Yj4)
 
 https://youtu.be/7ehzjZT8Yj4
@@ -215,4 +218,4 @@ If you have any questions, please contact us at support@blockbolt.io or send a m
 - Website: https://blockbolt.io/
 - Twitter: https://twitter.com/blockboltpay
 - Discord: https://discord.com/invite/Fb8CA6ny67
-- Email: [support@blockbolt.io](mailto:support@blockbolt.io) / [darshit@blockbolt.io](mailto:darshit@blockbolt.io)
+- Email: [support@blockbolt.io](mailto:support@blockbolt.io)
